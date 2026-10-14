@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.2.3.zip",
-  "checksum": "387d936c820a4429045ecae9ecfd424c99be33a2f97e39da7ce53715f2429ec9",
+  "version": "1.2.4",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.2.4.zip",
+  "checksum": "e363654e3afcf1434bd9e2bdd1005f3f60c9a43264f753a28cedff686540e4af",
   "minNative": 3,
-  "notes": "Carpetas y etiquetas, actualizaciones automáticas y trazos más fiables",
-  "date": "2026-10-14T17:39:40.481Z"
+  "notes": "La escritura ya no se selecciona ni se mueve al tocarla",
+  "date": "2026-10-14T17:51:46.772Z"
 }
