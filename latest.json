@@ -1,9 +1,9 @@
 {
-  "version": "1.3.1",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.3.1.zip",
-  "checksum": "1c605606d40588822d3e331d14eff140ef172c9aa7c81ec838d6c32f12980313",
+  "version": "1.4.0",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.4.0.zip",
+  "checksum": "6a2ec3b4bb9ba8b7c92f02c1c202666e0e7f5d2c0943a65045d0371d9b5f0028",
   "minNative": 4,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Subrayador más natural (punta biselada) y extremos de trazo más limpios",
-  "date": "2026-10-14T18:08:51.637Z"
+  "notes": "Cuadernos con páginas y papeles, goma solo para subrayador, colores que aprenden de tu uso y cambiar color y grosor con el lazo",
+  "date": "2026-10-14T19:49:50.959Z"
 }
