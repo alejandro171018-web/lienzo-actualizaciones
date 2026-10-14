@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.2.0.zip",
-  "checksum": "3f5563d77e29e5d83443c3e9f9e02e403ef8a1f00ed8bdcdc0c237709411726f",
+  "version": "1.2.1",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.2.1.zip",
+  "checksum": "fffe9a36dd8fba245b597dff81a68e80d738338faa2ed092f345c8c84223f096",
   "minNative": 3,
-  "notes": "Carpetas y etiquetas, actualizaciones automáticas",
-  "date": "2026-10-14T17:26:38.116Z"
+  "notes": "Prueba de actualización automática",
+  "date": "2026-10-14T17:28:05.711Z"
 }
