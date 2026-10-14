@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.2.1.zip",
-  "checksum": "fffe9a36dd8fba245b597dff81a68e80d738338faa2ed092f345c8c84223f096",
+  "version": "1.2.2",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.2.2.zip",
+  "checksum": "7e2fae6c1209017b12c8029a93a4f18e522f7d01e1a7185e7528e86f13358d1c",
   "minNative": 3,
   "notes": "Prueba de actualización automática",
-  "date": "2026-10-14T17:28:05.711Z"
+  "date": "2026-10-14T17:29:25.460Z"
 }
