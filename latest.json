@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.4.0.zip",
-  "checksum": "6a2ec3b4bb9ba8b7c92f02c1c202666e0e7f5d2c0943a65045d0371d9b5f0028",
-  "minNative": 4,
+  "version": "1.5.0",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.5.0.zip",
+  "checksum": "e20247de6f874608eb4993946c9bf464361bb149827c62eb7ef898308160a58d",
+  "minNative": 5,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Cuadernos con páginas y papeles, goma solo para subrayador, colores que aprenden de tu uso y cambiar color y grosor con el lazo",
-  "date": "2026-10-14T19:49:50.959Z"
+  "notes": "Mejorar letra (la A al seleccionar con el lazo). Necesita instalar el APK nuevo.",
+  "date": "2026-10-15T09:10:03.360Z"
 }
