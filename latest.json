@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.5.0.zip",
-  "checksum": "e20247de6f874608eb4993946c9bf464361bb149827c62eb7ef898308160a58d",
-  "minNative": 5,
+  "version": "1.6.0",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.0.zip",
+  "checksum": "ad43fe0d012c27c0571dfc2a23ca4b23cf72bc13c6d16a89271f9f96a459867f",
+  "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Mejorar letra (la A al seleccionar con el lazo). Necesita instalar el APK nuevo.",
-  "date": "2026-10-15T09:10:03.360Z"
+  "notes": "Nuevo nombre y logo: Pizarra. Necesita instalar el APK nuevo.",
+  "date": "2026-10-15T09:24:17.363Z"
 }
