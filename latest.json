@@ -1,9 +1,9 @@
 {
-  "version": "1.6.1",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.1.zip",
-  "checksum": "eff28258a536a07b0a5e9e1e68cd84a30fb53df91d37a493703ab3dc1e060237",
+  "version": "1.6.2",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.2.zip",
+  "checksum": "49d8c1c1331c7faf9df61f5faffa4ba9463f3eabcc28055df5efa2460ec7a1dc",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Apoyar la mano ya no mueve figuras, el lápiz coloca lo que acabas de poner, guías de centrado y separación, y paleta más limpia",
-  "date": "2026-10-15T16:47:43.716Z"
+  "notes": "Al escribir se quita la selección; un toque con el lápiz selecciona",
+  "date": "2026-10-15T16:55:22.395Z"
 }
