@@ -1,9 +1,9 @@
 {
-  "version": "1.6.0",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.0.zip",
-  "checksum": "ad43fe0d012c27c0571dfc2a23ca4b23cf72bc13c6d16a89271f9f96a459867f",
+  "version": "1.6.1",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.1.zip",
+  "checksum": "eff28258a536a07b0a5e9e1e68cd84a30fb53df91d37a493703ab3dc1e060237",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Nuevo nombre y logo: Pizarra. Necesita instalar el APK nuevo.",
-  "date": "2026-10-15T09:24:17.363Z"
+  "notes": "Apoyar la mano ya no mueve figuras, el lápiz coloca lo que acabas de poner, guías de centrado y separación, y paleta más limpia",
+  "date": "2026-10-15T16:47:43.716Z"
 }
