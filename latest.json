@@ -1,9 +1,9 @@
 {
-  "version": "1.6.3",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.3.zip",
-  "checksum": "c7f87a9769fa0a10a470564e1c868d673855c2b204e8bc6646f0471e516b4f14",
+  "version": "1.6.4",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.4.zip",
+  "checksum": "1cdadc89ec171f1521e84b63128cfff044a930d92c9c366b80a8b9e0278abdcb",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Subrayador más fluido: ir y volver queda natural, como un rotulador de verdad",
-  "date": "2026-10-17T15:39:31.002Z"
+  "notes": "Subrayador fluido: sigue al lápiz sin tirones y con punta redondeada, sin aspecto de cinta",
+  "date": "2026-10-17T15:51:14.017Z"
 }
