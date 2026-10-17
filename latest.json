@@ -1,9 +1,9 @@
 {
-  "version": "1.6.4",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.6.4.zip",
-  "checksum": "1cdadc89ec171f1521e84b63128cfff044a930d92c9c366b80a8b9e0278abdcb",
+  "version": "1.7.0",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.0.zip",
+  "checksum": "691708729a621be1d4606eaefba7dbcf7f56a4c2077a5754294fb69ebdd1a9c5",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Subrayador fluido: sigue al lápiz sin tirones y con punta redondeada, sin aspecto de cinta",
-  "date": "2026-10-17T15:51:14.017Z"
+  "notes": "Exportar PDF en hojas A4 nítidas con marcos de página y mosaico, calibrar la presión del S Pen y buscar en tu letra",
+  "date": "2026-10-17T18:30:45.652Z"
 }
