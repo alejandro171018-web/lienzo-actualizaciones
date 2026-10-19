@@ -1,9 +1,9 @@
 {
-  "version": "1.7.1",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.1.zip",
-  "checksum": "24f3867233d347dd1186ff38f4d817b182e1dca5ad17b78648cba0029438cc7f",
+  "version": "1.7.2",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.2.zip",
+  "checksum": "58bccaa245bb889eef1978b2bc2c7369e760f5d0c802f18e886553be3716ea7c",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Lazo más natural: rodear sin cerrar, tocar una palabra o tachar para seleccionar",
-  "date": "2026-10-19T15:51:59.254Z"
+  "notes": "Lazo como en GoodNotes: sigue al lápiz y coge exactamente lo rodeado",
+  "date": "2026-10-19T16:03:36.427Z"
 }
