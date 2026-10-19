@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.2.zip",
-  "checksum": "58bccaa245bb889eef1978b2bc2c7369e760f5d0c802f18e886553be3716ea7c",
+  "version": "1.7.3",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.3.zip",
+  "checksum": "ac3b52aa2b5d34529dbbf1cbc85d8d8fcf0bf30114eb3aff37252be04d0d5783",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Lazo como en GoodNotes: sigue al lápiz y coge exactamente lo rodeado",
-  "date": "2026-10-19T16:03:36.427Z"
+  "notes": "Lazo como un trazo de lápiz: línea discontinua suave, sin panel azul",
+  "date": "2026-10-19T16:07:27.181Z"
 }
