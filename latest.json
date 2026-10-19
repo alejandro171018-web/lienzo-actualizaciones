@@ -1,9 +1,9 @@
 {
-  "version": "1.7.0",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.0.zip",
-  "checksum": "691708729a621be1d4606eaefba7dbcf7f56a4c2077a5754294fb69ebdd1a9c5",
+  "version": "1.7.1",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.1.zip",
+  "checksum": "24f3867233d347dd1186ff38f4d817b182e1dca5ad17b78648cba0029438cc7f",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Exportar PDF en hojas A4 nítidas con marcos de página y mosaico, calibrar la presión del S Pen y buscar en tu letra",
-  "date": "2026-10-17T18:30:45.652Z"
+  "notes": "Lazo más natural: rodear sin cerrar, tocar una palabra o tachar para seleccionar",
+  "date": "2026-10-19T15:51:59.254Z"
 }
