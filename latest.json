@@ -1,9 +1,9 @@
 {
-  "version": "1.8.1",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.1.zip",
-  "checksum": "8f9a17d3191ecedee0b1a4c8145490dcd3b36b72410424542d9f061b5594c7bf",
+  "version": "1.8.2",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.2.zip",
+  "checksum": "b15aefc5a07c4dd0258f7de74f4155541418d1fa8b0fc1770dcc3a1a64aecf17",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "La presión del S Pen se ajusta sola a tu mano: apretar engorda de verdad",
-  "date": "2026-10-21T16:32:18.100Z"
+  "notes": "Bolígrafo como Freeform: rápido = fino, frenando = gordo (gota al final); presión ajustada a tu mano sin temblores",
+  "date": "2026-10-21T16:40:50.725Z"
 }
