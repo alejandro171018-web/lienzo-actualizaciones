@@ -1,9 +1,9 @@
 {
-  "version": "1.7.3",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.3.zip",
-  "checksum": "ac3b52aa2b5d34529dbbf1cbc85d8d8fcf0bf30114eb3aff37252be04d0d5783",
+  "version": "1.7.4",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.4.zip",
+  "checksum": "987c94ef522e692690d68a19e88a54ab031203ee537ee3dd96b166d3f34b8b79",
   "minNative": 6,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Lazo como un trazo de lápiz: línea discontinua suave, sin panel azul",
-  "date": "2026-10-19T16:07:27.181Z"
+  "notes": "Escritura más parecida a Freeform: bolígrafo sensible a la velocidad, estilográfica según la dirección, lápiz y cera según la presión",
+  "date": "2026-10-21T15:53:39.692Z"
 }
