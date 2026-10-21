@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.0.zip",
-  "checksum": "f441da8de3b1bb2917a6830f6150bfa7e03fb5633c6ad7f6ddb0e454e6d9a2c9",
+  "version": "1.8.1",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.1.zip",
+  "checksum": "8f9a17d3191ecedee0b1a4c8145490dcd3b36b72410424542d9f061b5594c7bf",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Giro automático también con la tablet apoyada en la mesa (necesita la app 1.8.0)",
-  "date": "2026-10-21T16:25:22.997Z"
+  "notes": "La presión del S Pen se ajusta sola a tu mano: apretar engorda de verdad",
+  "date": "2026-10-21T16:32:18.100Z"
 }
