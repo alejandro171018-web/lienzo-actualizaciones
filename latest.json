@@ -1,9 +1,9 @@
 {
-  "version": "1.7.5",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.7.5.zip",
-  "checksum": "ebcee9e3566469a669fa61029557524139e1ed55da1b60fbe46820ff8221a1d8",
-  "minNative": 6,
+  "version": "1.8.0",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.0.zip",
+  "checksum": "f441da8de3b1bb2917a6830f6150bfa7e03fb5633c6ad7f6ddb0e454e6d9a2c9",
+  "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Al girar la tablet se sigue viendo lo mismo (mismo centro y ancho; los cuadernos siguen ajustados a la página)",
-  "date": "2026-10-21T15:58:06.771Z"
+  "notes": "Giro automático también con la tablet apoyada en la mesa (necesita la app 1.8.0)",
+  "date": "2026-10-21T16:25:22.997Z"
 }
