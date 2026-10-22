@@ -1,9 +1,9 @@
 {
-  "version": "1.8.2",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.2.zip",
-  "checksum": "b15aefc5a07c4dd0258f7de74f4155541418d1fa8b0fc1770dcc3a1a64aecf17",
+  "version": "1.8.3",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.3.zip",
+  "checksum": "4b6279830fcbe2cfd3f8d17ef75902b41dcb0857e05a6d01b1944af8a3b82b92",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Bolígrafo como Freeform: rápido = fino, frenando = gordo (gota al final); presión ajustada a tu mano sin temblores",
-  "date": "2026-10-21T16:40:50.725Z"
+  "notes": "La goma borra lo escrito encima de un post-it sin borrar el post-it",
+  "date": "2026-10-22T13:00:11.693Z"
 }
