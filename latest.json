@@ -1,9 +1,9 @@
 {
-  "version": "1.8.5",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.5.zip",
-  "checksum": "5e30b370e79edb386a8194ec1b9dbbfe3232b01fae62f4423c001a3293f4b742",
+  "version": "1.8.6",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.6.zip",
+  "checksum": "91237f188d4abb986855a2bdf444a7bda51bc1b3343445d36de34315f47fbacc",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Presión mucho más visible: apretar engorda el trazo unas 2,5 veces",
-  "date": "2026-10-24T16:49:21.914Z"
+  "notes": "Rotulador con punta redonda (como la monolínea) que engorda al apretar",
+  "date": "2026-10-24T16:54:07.508Z"
 }
