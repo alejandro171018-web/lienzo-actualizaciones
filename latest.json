@@ -1,9 +1,9 @@
 {
-  "version": "1.8.4",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.4.zip",
-  "checksum": "e80e87da2d130299952bbc0d3760e84d0c0f925e21fe6d735ffac1984faec194",
+  "version": "1.8.5",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.5.zip",
+  "checksum": "5e30b370e79edb386a8194ec1b9dbbfe3232b01fae62f4423c001a3293f4b742",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Apoyar la mano ya no deshace; presión más marcada y ajustable; guardado más fluido y seguro",
-  "date": "2026-10-24T16:44:44.159Z"
+  "notes": "Presión mucho más visible: apretar engorda el trazo unas 2,5 veces",
+  "date": "2026-10-24T16:49:21.914Z"
 }
