@@ -1,9 +1,9 @@
 {
-  "version": "1.8.3",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.3.zip",
-  "checksum": "4b6279830fcbe2cfd3f8d17ef75902b41dcb0857e05a6d01b1944af8a3b82b92",
+  "version": "1.8.4",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.4.zip",
+  "checksum": "e80e87da2d130299952bbc0d3760e84d0c0f925e21fe6d735ffac1984faec194",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "La goma borra lo escrito encima de un post-it sin borrar el post-it",
-  "date": "2026-10-22T13:00:11.693Z"
+  "notes": "Apoyar la mano ya no deshace; presión más marcada y ajustable; guardado más fluido y seguro",
+  "date": "2026-10-24T16:44:44.159Z"
 }
