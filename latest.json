@@ -1,9 +1,9 @@
 {
-  "version": "1.8.7",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.7.zip",
-  "checksum": "817425ac99205350d4a28b2f0aeac30c39afd0c61a5028b827ad3bf4166cebf4",
+  "version": "1.8.8",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.8.zip",
+  "checksum": "c93ef5d566ab74f5af0fd8d10369fd47a8ee3f9a55891f8c9e0be0792ce46c03",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "La monolínea también sigue la presión",
-  "date": "2026-10-24T16:57:16.786Z"
+  "notes": "Pluma estilo GoodNotes: trazo estable y suave, grosor solo por presión",
+  "date": "2026-10-24T17:13:06.860Z"
 }
