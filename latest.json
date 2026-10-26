@@ -1,9 +1,9 @@
 {
-  "version": "1.8.9",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.9.zip",
-  "checksum": "9590a1ff5cf4aec00779e5c9df4cfc89fb8bd06b901ea33e745a76d535826964",
+  "version": "1.9.0",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.9.0.zip",
+  "checksum": "b2f9983af2e165fa4896e2700dd9aad6d69db8d9ba74eb40b6fe1f5b479c4fde",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Deshacer/rehacer con doble toque de 2/3 dedos; colorear dentro de algo ya no lo borra",
-  "date": "2026-10-26T17:28:39.898Z"
+  "notes": "Optimización: tableros grandes abren mucho más rápido, menos memoria con fotos, galería ligera",
+  "date": "2026-10-26T17:55:35.998Z"
 }
