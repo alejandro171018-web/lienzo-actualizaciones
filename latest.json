@@ -1,9 +1,9 @@
 {
-  "version": "1.8.8",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.8.zip",
-  "checksum": "c93ef5d566ab74f5af0fd8d10369fd47a8ee3f9a55891f8c9e0be0792ce46c03",
+  "version": "1.8.9",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.8.9.zip",
+  "checksum": "9590a1ff5cf4aec00779e5c9df4cfc89fb8bd06b901ea33e745a76d535826964",
   "minNative": 7,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Pluma estilo GoodNotes: trazo estable y suave, grosor solo por presión",
-  "date": "2026-10-24T17:13:06.860Z"
+  "notes": "Deshacer/rehacer con doble toque de 2/3 dedos; colorear dentro de algo ya no lo borra",
+  "date": "2026-10-26T17:28:39.898Z"
 }
