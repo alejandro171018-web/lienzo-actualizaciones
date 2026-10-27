@@ -1,9 +1,9 @@
 {
-  "version": "1.9.0",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.9.0.zip",
-  "checksum": "b2f9983af2e165fa4896e2700dd9aad6d69db8d9ba74eb40b6fe1f5b479c4fde",
-  "minNative": 7,
+  "version": "1.10.1",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.1.zip",
+  "checksum": "928cef37d505b803c032974028b4b0faf01c74eb801163a49b8589f0db7047a2",
+  "minNative": 8,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Optimización: tableros grandes abren mucho más rápido, menos memoria con fotos, galería ligera",
-  "date": "2026-10-26T17:55:35.998Z"
+  "notes": "Pluma como GoodNotes, Estilográfica por tramos, Claude en la paleta, micrófono en el chat, cuadernos y vídeo",
+  "date": "2026-10-27T20:13:00.677Z"
 }
