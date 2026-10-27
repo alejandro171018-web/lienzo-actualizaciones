@@ -1,9 +1,9 @@
 {
-  "version": "1.10.2",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.2.zip",
-  "checksum": "acce333965a5586e192ed2e23c0f719e8f8bcba65d62b72c6248ac619fe0fbcc",
+  "version": "1.10.3",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.3.zip",
+  "checksum": "3ffd2ce03a1724d7460bdcfbb220b8632ac619932c82d0a61dee9d34c415858c",
   "minNative": 8,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Pluma, Bolígrafo y Pincel escriben como en GoodNotes: trazo más fluido y presión adaptada al grosor",
-  "date": "2026-10-27T20:32:08.122Z"
+  "notes": "Bolígrafo y Pluma vuelven a como iban en la 1.10.1; la tinta sigue al lápiz con menos retraso",
+  "date": "2026-10-27T20:36:16.315Z"
 }
