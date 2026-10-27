@@ -1,9 +1,9 @@
 {
-  "version": "1.10.3",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.3.zip",
-  "checksum": "3ffd2ce03a1724d7460bdcfbb220b8632ac619932c82d0a61dee9d34c415858c",
+  "version": "1.10.4",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.4.zip",
+  "checksum": "3d6f81f06f587295cfa65a6360202c5f39d316940ce97821a7376c0fc83b4c49",
   "minNative": 8,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Bolígrafo y Pluma vuelven a como iban en la 1.10.1; la tinta sigue al lápiz con menos retraso",
-  "date": "2026-10-27T20:36:16.315Z"
+  "notes": "Pluma, Bolígrafo y Pincel vuelven a ser exactamente los de la 1.10.1 (sin enganches)",
+  "date": "2026-10-27T20:38:37.350Z"
 }
