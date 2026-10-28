@@ -1,9 +1,9 @@
 {
-  "version": "1.11.3",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.11.3.zip",
-  "checksum": "0c0e1a6f78c224f05f322ffd1afb2376feda0df502b72c4d4255e3de6a18c889",
+  "version": "1.11.4",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.11.4.zip",
+  "checksum": "6c8f6032970dab573fc23206d1013e9ea05b9bd18964eaf0071cb0fa5e5dd746",
   "minNative": 9,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "El trazo definitivo es idéntico a la tinta en vivo (sin corrección al soltar); tachar con garabato funciona también en zigzag",
-  "date": "2026-10-28T11:49:19.971Z"
+  "notes": "La letra ya no se encoge al soltar: el trazo definitivo cuenta los mismos puntos que la tinta en vivo",
+  "date": "2026-10-28T13:42:03.232Z"
 }
