@@ -1,9 +1,9 @@
 {
-  "version": "1.10.7",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.7.zip",
-  "checksum": "59dc1667dd7310876bfa3a09afec81b52f3baa5568fada6ee2e3f112391b3bb0",
-  "minNative": 8,
+  "version": "1.11.0",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.11.0.zip",
+  "checksum": "1031ec16f3800d1e86ad5ac6be5da18a728af3d64ac86790ab54fae281879f6f",
+  "minNative": 9,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Pluma Samsung: el grosor sigue la presión como tinta, entra y sale más fina (sin aspecto de cinta)",
-  "date": "2026-10-28T11:17:49.238Z"
+  "notes": "Escritura instantánea: Android pinta la tinta mientras escribes (necesita la app 1.11.0); bolígrafo estilo Samsung",
+  "date": "2026-10-28T11:32:51.177Z"
 }
