@@ -1,9 +1,9 @@
 {
-  "version": "1.11.2",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.11.2.zip",
-  "checksum": "badebbad411e4a4f7e27a1358c3ed9d87d13f39d8ffa3dcb22ebee081c6e6de3",
+  "version": "1.11.3",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.11.3.zip",
+  "checksum": "0c0e1a6f78c224f05f322ffd1afb2376feda0df502b72c4d4255e3de6a18c889",
   "minNative": 9,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Sin micro flash al soltar el lápiz: el trazo definitivo coincide con la tinta en vivo",
-  "date": "2026-10-28T11:44:40.285Z"
+  "notes": "El trazo definitivo es idéntico a la tinta en vivo (sin corrección al soltar); tachar con garabato funciona también en zigzag",
+  "date": "2026-10-28T11:49:19.971Z"
 }
