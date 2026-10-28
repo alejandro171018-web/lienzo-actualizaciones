@@ -1,9 +1,9 @@
 {
-  "version": "1.10.5",
-  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.5.zip",
-  "checksum": "4fc2649db7fee89e8471dffac8f02b463b342e750c8859660eae5f56a819156b",
+  "version": "1.10.6",
+  "url": "https://raw.githubusercontent.com/alejandro171018-web/lienzo-actualizaciones/main/bundles/lienzo-1.10.6.zip",
+  "checksum": "78900f12aff69a20b9d9e0e3f49fd1c4c4c344cce73e2772a4a4fc8a6e92c692",
   "minNative": 8,
   "apk": "https://github.com/alejandro171018-web/lienzo-actualizaciones/releases/latest/download/Lienzo.apk",
-  "notes": "Pluma estilo Samsung Notes (suave, grosor gradual, punta corta) y trazo con predicción",
-  "date": "2026-10-28T10:57:51.040Z"
+  "notes": "Trazos en curva suave (sin quiebros) y pluma Samsung de grosor uniforme con puntas redondas",
+  "date": "2026-10-28T11:10:39.819Z"
 }
